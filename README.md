@@ -40,11 +40,11 @@ Hasil build ada di `build/app/outputs/flutter-apk/app-release.apk`
 
 ## Menambahkan & Menampilkan Screenshot
 
-- Simpan screenshot aplikasi di folder `assets/`, misal: `assets/screenshot1.png`
-- Untuk menampilkan screenshot di README, gunakan sintaks berikut:
-
 ```markdown
-![Tampilan Aplikasi](assets/screenshot1.png)
+![Tampilan Aplikasi]
+(assets/screenshot.png)
+(assets/screenshot2.png)
+(assets/screenshot3.png)
 ```
 
 ## Sumber Referensi
