@@ -44,7 +44,9 @@ Hasil build ada di `build/app/outputs/flutter-apk/app-release.apk`
 - Untuk menampilkan screenshot di README, gunakan sintaks berikut:
 
 ```markdown
-![Tampilan Aplikasi](assets/screenshot1.jpeg)
+![Tampilan Aplikasi](assets/screenshot.jpeg)
+![Tampilan Aplikasi](assets/screenshot2.jpeg)
+![Tampilan Aplikasi](assets/screenshot3.jpeg)
 ```
 
 ## Sumber Referensi
