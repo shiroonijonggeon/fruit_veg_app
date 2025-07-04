@@ -42,9 +42,11 @@ Hasil build ada di `build/app/outputs/flutter-apk/app-release.apk`
 
 Contoh menampilkan screenshot aplikasi di README:
 
-![Tampilan Aplikasi 1](assets/screenshot.png)
-![Tampilan Aplikasi 2](assets/screenshot2.png)
-![Tampilan Aplikasi 3](assets/screenshot3.png)
+<p align="center">
+  <img src="assets/screenshot.png" alt="Tampilan Aplikasi 1" width="200"/>
+  <img src="assets/screenshot2.png" alt="Tampilan Aplikasi 2" width="200"/>
+  <img src="assets/screenshot3.png" alt="Tampilan Aplikasi 3" width="200"/>
+</p>
 
 ## Sumber Referensi
 - [Dokumentasi Flutter](https://docs.flutter.dev/)
