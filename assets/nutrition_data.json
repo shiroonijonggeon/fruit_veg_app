@@ -1,0 +1,410 @@
+[
+    {
+        "label": "Apple/Apel",
+        "indo": "Apel",
+        "vitamins": [
+            "Vitamin C",
+            "Vitamin K",
+            "Vitamin B6"
+        ],
+        "nutrients": [
+            "Serat",
+            "Antioksidan",
+            "Kalium"
+        ]
+    },
+    {
+        "label": "Banana/Pisang",
+        "indo": "Pisang",
+        "vitamins": [
+            "Vitamin B6",
+            "Vitamin C"
+        ],
+        "nutrients": [
+            "Kalium",
+            "Karbohidrat",
+            "Serat"
+        ]
+    },
+    {
+        "label": "Beetroot/Ubi Bit",
+        "indo": "Ubi Bit",
+        "vitamins": [
+            "Vitamin C",
+            "Folat"
+        ],
+        "nutrients": [
+            "Zat Besi",
+            "Serat",
+            "Antioksidan"
+        ]
+    },
+    {
+        "label": "Bell Pepper/Paprika",
+        "indo": "Paprika",
+        "vitamins": [
+            "Vitamin C",
+            "Vitamin A",
+            "Vitamin B6"
+        ],
+        "nutrients": [
+            "Antioksidan",
+            "Serat"
+        ]
+    },
+    {
+        "label": "Cabbage/Kol",
+        "indo": "Kol",
+        "vitamins": [
+            "Vitamin C",
+            "Vitamin K"
+        ],
+        "nutrients": [
+            "Serat",
+            "Antioksidan",
+            "Folat"
+        ]
+    },
+    {
+        "label": "Carrot/Wortel",
+        "indo": "Wortel",
+        "vitamins": [
+            "Vitamin A",
+            "Vitamin K",
+            "Vitamin C"
+        ],
+        "nutrients": [
+            "Beta-karoten",
+            "Serat"
+        ]
+    },
+    {
+        "label": "Cauliflower/Kembang Kol",
+        "indo": "Kembang Kol",
+        "vitamins": [
+            "Vitamin C",
+            "Vitamin K",
+            "Folat"
+        ],
+        "nutrients": [
+            "Serat",
+            "Antioksidan"
+        ]
+    },
+    {
+        "label": "Chilli Pepper/Cabai",
+        "indo": "Cabai",
+        "vitamins": [
+            "Vitamin C",
+            "Vitamin A",
+            "Vitamin B6"
+        ],
+        "nutrients": [
+            "Capsaicin",
+            "Antioksidan"
+        ]
+    },
+    {
+        "label": "Corn/Jagung",
+        "indo": "Jagung",
+        "vitamins": [
+            "Vitamin B1",
+            "Vitamin B9"
+        ],
+        "nutrients": [
+            "Karbohidrat",
+            "Serat",
+            "Antioksidan"
+        ]
+    },
+    {
+        "label": "Cucumber/Timun",
+        "indo": "Timun",
+        "vitamins": [
+            "Vitamin K",
+            "Vitamin C"
+        ],
+        "nutrients": [
+            "Air",
+            "Antioksidan",
+            "Serat"
+        ]
+    },
+    {
+        "label": "Eggplant/Terong",
+        "indo": "Terong",
+        "vitamins": [
+            "Vitamin C",
+            "Vitamin K",
+            "Vitamin B6"
+        ],
+        "nutrients": [
+            "Serat",
+            "Antioksidan"
+        ]
+    },
+    {
+        "label": "Garlic/Bawang Putih",
+        "indo": "Bawang Putih",
+        "vitamins": [
+            "Vitamin C",
+            "Vitamin B6"
+        ],
+        "nutrients": [
+            "Allicin",
+            "Antioksidan",
+            "Mangan"
+        ]
+    },
+    {
+        "label": "Ginger/Jahe",
+        "indo": "Jahe",
+        "vitamins": [
+            "Vitamin B6",
+            "Vitamin C"
+        ],
+        "nutrients": [
+            "Gingerol",
+            "Anti-inflamasi"
+        ]
+    },
+    {
+        "label": "Grape/Anggur",
+        "indo": "Anggur",
+        "vitamins": [
+            "Vitamin C",
+            "Vitamin K"
+        ],
+        "nutrients": [
+            "Antioksidan",
+            "Resveratrol"
+        ]
+    },
+    {
+        "label": "Kiwi",
+        "indo": "Kiwi",
+        "vitamins": [
+            "Vitamin C",
+            "Vitamin E",
+            "Vitamin K"
+        ],
+        "nutrients": [
+            "Kalium",
+            "Serat"
+        ]
+    },
+    {
+        "label": "Lemon",
+        "indo": "Lemon",
+        "vitamins": [
+            "Vitamin C",
+            "Vitamin B6"
+        ],
+        "nutrients": [
+            "Antioksidan",
+            "Asam Sitrat"
+        ]
+    },
+    {
+        "label": "Lettuce/Selada",
+        "indo": "Selada",
+        "vitamins": [
+            "Vitamin A",
+            "Vitamin K",
+            "Folat"
+        ],
+        "nutrients": [
+            "Air",
+            "Serat"
+        ]
+    },
+    {
+        "label": "Mango/Mangga",
+        "indo": "Mangga",
+        "vitamins": [
+            "Vitamin C",
+            "Vitamin A",
+            "Vitamin E"
+        ],
+        "nutrients": [
+            "Antioksidan",
+            "Serat"
+        ]
+    },
+    {
+        "label": "Onion/Bawang",
+        "indo": "Bawang",
+        "vitamins": [
+            "Vitamin C",
+            "Vitamin B6"
+        ],
+        "nutrients": [
+            "Antioksidan",
+            "Sulfur"
+        ]
+    },
+    {
+        "label": "Orange/Jeruk",
+        "indo": "Jeruk",
+        "vitamins": [
+            "Vitamin C",
+            "Folat"
+        ],
+        "nutrients": [
+            "Serat",
+            "Antioksidan"
+        ]
+    },
+    {
+        "label": "Pear/Pir",
+        "indo": "Pir",
+        "vitamins": [
+            "Vitamin C",
+            "Vitamin K"
+        ],
+        "nutrients": [
+            "Serat",
+            "Antioksidan"
+        ]
+    },
+    {
+        "label": "Peas/Kacang Polong",
+        "indo": "Kacang Polong",
+        "vitamins": [
+            "Vitamin K",
+            "Vitamin A",
+            "Folat"
+        ],
+        "nutrients": [
+            "Protein Nabati",
+            "Serat"
+        ]
+    },
+    {
+        "label": "Pineapple/Nanas",
+        "indo": "Nanas",
+        "vitamins": [
+            "Vitamin C",
+            "Vitamin B1"
+        ],
+        "nutrients": [
+            "Bromelain",
+            "Antioksidan"
+        ]
+    },
+    {
+        "label": "Pomegranate/Delima",
+        "indo": "Delima",
+        "vitamins": [
+            "Vitamin C",
+            "Vitamin K"
+        ],
+        "nutrients": [
+            "Antioksidan",
+            "Polifenol"
+        ]
+    },
+    {
+        "label": "Potato/Kentang",
+        "indo": "Kentang",
+        "vitamins": [
+            "Vitamin C",
+            "Vitamin B6"
+        ],
+        "nutrients": [
+            "Karbohidrat",
+            "Kalium",
+            "Serat"
+        ]
+    },
+    {
+        "label": "Raddish/Lobak",
+        "indo": "Lobak",
+        "vitamins": [
+            "Vitamin C",
+            "Folat"
+        ],
+        "nutrients": [
+            "Serat",
+            "Antioksidan"
+        ]
+    },
+    {
+        "label": "Soy Beans/Kedelai",
+        "indo": "Kedelai",
+        "vitamins": [
+            "Vitamin K",
+            "Folat"
+        ],
+        "nutrients": [
+            "Protein",
+            "Isoflavon"
+        ]
+    },
+    {
+        "label": "Bayam",
+        "indo": "Bayam",
+        "vitamins": [
+            "Vitamin A",
+            "Vitamin C",
+            "Vitamin K",
+            "Folat"
+        ],
+        "nutrients": [
+            "Zat Besi",
+            "Kalsium",
+            "Antioksidan"
+        ]
+    },
+    {
+        "label": "Sweetpotato/Ubi Manis",
+        "indo": "Ubi Manis",
+        "vitamins": [
+            "Vitamin A",
+            "Vitamin C",
+            "Vitamin B6"
+        ],
+        "nutrients": [
+            "Karbohidrat",
+            "Beta-karoten",
+            "Serat"
+        ]
+    },
+    {
+        "label": "Tomato/Tomat",
+        "indo": "Tomat",
+        "vitamins": [
+            "Vitamin C",
+            "Vitamin A",
+            "Vitamin K"
+        ],
+        "nutrients": [
+            "Lycopene",
+            "Antioksidan"
+        ]
+    },
+    {
+        "label": "Turnip/Ubi Lobak",
+        "indo": "Ubi Lobak",
+        "vitamins": [
+            "Vitamin C",
+            "Folat"
+        ],
+        "nutrients": [
+            "Serat",
+            "Antioksidan"
+        ]
+    },
+    {
+        "label": "Watermelon/Semangka",
+        "indo": "Semangka",
+        "vitamins": [
+            "Vitamin C",
+            "Vitamin A"
+        ],
+        "nutrients": [
+            "Air",
+            "Lycopene"
+        ]
+    }
+]

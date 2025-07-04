@@ -1,0 +1,32 @@
+Apple/Apel
+Banana/Pisang
+Beetroot/Ubi Bit
+Bell Pepper/Paprika
+Cabbage/Kol
+Carrot/Wortel
+Cauliflower/Kembang Kol
+Chilli Pepper/Cabai
+Corn/Jagung
+Cucumber/Timun
+Eggplant/Terong
+Garlic/Bawang Putih
+Ginger/Jahe
+Grape/Anggur
+Kiwi
+Lemon
+Lettuce/Selada
+Mango/Mangga
+Onion/Bawang
+Orange/Jeruk
+Pear/Pir
+Peas/Kacang Polong
+Pineapple/Nanas
+Pomegranate/Delima
+Potato/Kentang
+Raddish/Lobak
+Soy Beans/Kedelai
+Bayam
+Sweetpotato/Ubi Manis
+Tomato/Tomat
+Turnip/Ubi Lobak
+Watermelon/Semangka
