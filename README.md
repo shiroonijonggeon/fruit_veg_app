@@ -1,6 +1,6 @@
 # fruit_veg_app
 
-Aplikasi Flutter untuk mengenali buah dan sayur serta menampilkan informasi nutrisinya.
+Aplikasi deteksi buah dan sayur berbasis Flutter. Aplikasi ini dapat mengenali jenis buah/sayur dari gambar, lalu menampilkan informasi nutrisi secara otomatis. Cocok untuk edukasi, diet, dan referensi gizi sehari-hari.
 
 ## Prasyarat
 
@@ -40,12 +40,11 @@ Hasil build ada di `build/app/outputs/flutter-apk/app-release.apk`
 
 ## Menambahkan & Menampilkan Screenshot
 
-```markdown
-![Tampilan Aplikasi]
-(assets/screenshot.png)
-(assets/screenshot2.png)
-(assets/screenshot3.png)
-```
+Contoh menampilkan screenshot aplikasi di README:
+
+![Tampilan Aplikasi 1](assets/screenshot.png)
+![Tampilan Aplikasi 2](assets/screenshot2.png)
+![Tampilan Aplikasi 3](assets/screenshot3.png)
 
 ## Sumber Referensi
 - [Dokumentasi Flutter](https://docs.flutter.dev/)
